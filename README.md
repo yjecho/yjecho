@@ -1,4 +1,4 @@
-👋 Hi, I’m Yoonju!\
+👋 Hi, I’m Yoonju!
 
 🌟 Blog: [My Blog(KOR)](https://blog.naver.com/emma_c__)\
 🌟 LinkedIn: To be updated
