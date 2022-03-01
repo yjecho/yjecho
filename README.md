@@ -1,7 +1,7 @@
 👋 Hi, I’m Yoonju!
 
-🌟 Blog: [My Blog (KOR)](//)\
-🌟 LinkedIn: Profile (ENG) - To be updated
+🌟 My page: [My](//)\
+🌟 To be updated
 
 <!---
 yjecho/yjecho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
