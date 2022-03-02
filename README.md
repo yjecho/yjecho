@@ -1,6 +1,6 @@
 👋 Hi, I’m Yoonju!
 
-🌟 My page: [My](//)\
+🌟 My page: [My blog](//)\
 🌟 To be updated
 
 <!---
