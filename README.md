@@ -1,6 +1,6 @@
 👋 Hi!
 
-🌟 My page: [My Notion](https://www.notion.so/Wooju-s-Universe-b32a2a63a2874d5c982c6422c55955da)\
+🌟 My Notion: [Let's go!](https://www.notion.so/Wooju-s-Universe-b32a2a63a2874d5c982c6422c55955da)\
 🌟
 
 <!---
