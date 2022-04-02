@@ -1,7 +1,6 @@
-👋 Hi, I’m Yoonju!
+👋 Hi!
 
-🌟 My page: [My blog](//)\
-🌟 To be updated
+🌟 My page: [My blog](https://www.notion.so/Wooju-s-Universe-b32a2a63a2874d5c982c6422c55955da)\
 
 <!---
 yjecho/yjecho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
