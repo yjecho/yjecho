@@ -1,7 +1,7 @@
-👋 Hi!
+👋🏻 Hi!
 
 🌟 My Notion: [Let's go!](https://www.notion.so/Wooju-s-Universe-b32a2a63a2874d5c982c6422c55955da)\
-🌟
+🌟 To be updated
 
 <!---
 yjecho/yjecho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
